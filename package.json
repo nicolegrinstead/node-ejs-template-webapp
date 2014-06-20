@@ -9,7 +9,7 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "express": "3.4.7",
+    "express": "3.x",
     "ejs": "*",
     "mongoose": "*",
     "express-ejs-layouts": "0.3.1",
