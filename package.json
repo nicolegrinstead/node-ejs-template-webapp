@@ -1,5 +1,5 @@
 {
-  "name": "node-ejs-template-webapp",
+  "name": "node-express-template-webapp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -14,6 +14,9 @@
     "mongoose": "*",
     "express-ejs-layouts": "0.3.1",
     "underscore": "*",
-    "connect":"2.19.6"
+    "connect":"2.19.6",
+    "mocha": "*",
+    "express-session":"1.5.0",
+    "body-parser":"1.4.3"
   }
 }
